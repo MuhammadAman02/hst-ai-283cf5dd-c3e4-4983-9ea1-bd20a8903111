@@ -1,4 +1,4 @@
-import StripePayment from '@/components/StripePayment';
+import StripePayment from '../components/StripePayment';
 
 const Index = () => {
   return (
